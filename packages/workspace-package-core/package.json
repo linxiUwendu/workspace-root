@@ -1,0 +1,15 @@
+{
+  "name": "workspace-package-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "haozheng.luan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.6.14"
+  }
+}
